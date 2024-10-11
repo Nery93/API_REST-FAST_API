@@ -6,20 +6,20 @@
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-3.8.1-yellow.svg)
 
 
-## **Descrição do Projeto**
-Este é um aplicativo Crypto Finance desenvolvido com FastAPI, que permite a gestão de usuários e seus ativos favoritos de criptomoedas. O sistema foi projetado para facilitar o gerenciamento de portfólios, otimizando a adição e remoção de ativos, além de permitir a visualização dos preços históricos.
+## **Project description**
+This is a Crypto Finance application developed with FastAPI, which allows the management of users and their favorite cryptocurrency assets. The system is designed to facilitate portfolio management by optimizing the addition and removal of assets, as well as allowing the visualization of historical prices.
 
 O aplicativo oferece funcionalidades como cadastro e exclusão de usuários, gerenciamento de ativos favoritos e acompanhamento dos preços máximos e mínimos de cada ativo.
 
-## **Funcionalidades:**
+## **Features:**
 
-- Gerenciamento de usuários: Permite cadastrar e excluir usuários do sistema.
-- Ativos favoritos: Possibilita adicionar e remover criptomoedas da lista de favoritos.
-- Acompanhamento de preços: Recupera e exibe os preços máximos e mínimos do dia anterior para cada ativo favorito do usuário.
-- Banco de dados com PostgreSQL: Utiliza o PostgreSQL como sistema de gerenciamento de banco de dados.
-- Desempenho assíncrono: Implementa SQLAlchemy assíncrono e AIOHTTP para melhorar o desempenho na manipulação de requisições.
-
-## **Tecnologias Utilizadas:**
+- User management: Allows you to register and delete users from the system.
+- Favorite assets: Makes it possible to add and remove cryptocurrencies from the favorites list.
+- Price tracking: Retrieves and displays the previous day's high and low prices for each of the user's favorite assets.
+- Database with PostgreSQL: Uses PostgreSQL as the database management system.
+- Asynchronous performance: Implements asynchronous SQLAlchemy and AIOHTTP to improve performance when handling requests.
+- 
+## **Technologies Used:**
 - Python >= 3.6
 - FastAPI
 - PostgreSQL
