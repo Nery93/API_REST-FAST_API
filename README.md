@@ -9,7 +9,7 @@
 ## **Project description**
 This is a Crypto Finance application developed with FastAPI, which allows the management of users and their favorite cryptocurrency assets. The system is designed to facilitate portfolio management by optimizing the addition and removal of assets, as well as allowing the visualization of historical prices.
 
-O aplicativo oferece funcionalidades como cadastro e exclusão de usuários, gerenciamento de ativos favoritos e acompanhamento dos preços máximos e mínimos de cada ativo.
+The application offers features such as registering and deleting users, managing favorite assets and monitoring the maximum and minimum prices of each asset.
 
 ## **Features:**
 
